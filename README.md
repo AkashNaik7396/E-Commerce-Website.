@@ -36,7 +36,7 @@ ecommerce-website/
 ├── package.json
 └── .gitignore
 🧪 Installation & Setup
-git clone https://github.com/akashnaik7396/ecommer<img width="1120" alt="Screenshot 2025-06-16 at 10 55 08 PM" src="https://github.com/user-attachments/assets/4492c036-8244-4d40-bd12-c6f4cca3bd2a" />
+https://akashnaik7396.github.io/E-Commerce-Website./<img width="1120" alt="Screenshot 2025-06-16 at 10 55 08 PM" src="https://github.com/user-attachments/assets/4492c036-8244-4d40-bd12-c6f4cca3bd2a" />
 ce-website.git
 cd ecommerce-website
 
